@@ -16,7 +16,7 @@ switch (operação){
     case '*':
         console.log('a operação de multiplicação foi realizada (' + numero1 + ' * ' + numero2 + ') e o resultado foi: ' + (numero1 * numero2))
         break;
-        
+
     case '/':
         console.log('a operação de divisão foi realizada (' + numero1 + ' / ' + numero2 + ') e o resultado foi: ' + (numero1 / numero2))
         break;
