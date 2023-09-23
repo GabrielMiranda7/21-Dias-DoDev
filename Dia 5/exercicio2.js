@@ -20,5 +20,6 @@ switch (usuario){
         break;
 
     default:
-        console.log('Opção Inválida')    
+        console.log('Opção Inválida')
+        break;    
 }
